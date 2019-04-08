@@ -321,15 +321,16 @@ input, select, textarea {
 	}
 
 	input, select, textarea {
-		color: #000000;
+		color: aqua;
 	}
 
 	a {
-		color: #000000;
+		color: aqua;
+		
 	}
 
 		a:hover {
-			color: #47D3E5;
+			color: rgb(71, 229, 150);
 		}
 
 	strong, b {
@@ -2477,7 +2478,7 @@ input, select, textarea {
 	}
 
 	label {
-		color: #000000;
+		color:  grey;
 	}
 
 	input[type="text"],
@@ -2558,6 +2559,7 @@ input, select, textarea {
 		border-bottom: none;
 		position: relative;
 		text-align: center;
+		
 	}
 
 		.icon:before {
@@ -2866,6 +2868,7 @@ input, select, textarea {
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
+
 	}
 
 		ul.icons li {
