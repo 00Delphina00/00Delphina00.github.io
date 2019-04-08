@@ -1,3 +1,17 @@
+FILE ATTRIBUTIONS
+
+STORY Template comes from HTML5UP.com
+
+people-gathering-inside-room-1345085.jpg is from rawpixel.com hosted on pexels.com.
+
+beautiful-colorful-colors-environment-452780.jpg is from Artem Bali hosted on pexels.com
+
+beautiful-box-bread-celebration-378007.jpg is from Brigitte Tohm hosted on pexels.com
+
+header-img.png is from Lambda School's Great-Idea-Website repository posted by Big Knell
+
+
+
 # Build A Portfolio Website
 
 With all of the projects you will be working on here at Lambda School, you will need somewhere to house them!  There is no better opportunity to learn and show off your skills than a beautiful portfolio website.  
