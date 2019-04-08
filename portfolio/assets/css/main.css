@@ -2338,7 +2338,7 @@ input, select, textarea {
 		-webkit-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		background-color: transparent;
+		background-color: rgb(29, 33, 37);
 		border-radius: 4px;
 		border: none;
 		border: solid 1px;
@@ -2510,7 +2510,7 @@ input, select, textarea {
 
 		select option {
 			color: #000000;
-			background: #ffffff;
+			background: white;
 		}
 
 	input[type="checkbox"] + label,
