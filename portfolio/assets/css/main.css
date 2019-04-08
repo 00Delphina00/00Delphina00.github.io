@@ -152,8 +152,8 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: #ffffff;
-		color: #000000;
+		background-color: black;
+		color: grey;
 	}
 
 	body, input, select, textarea {
