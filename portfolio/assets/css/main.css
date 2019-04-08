@@ -3463,7 +3463,9 @@ input, select, textarea {
 			max-width: 48rem;
 			margin: 0 auto;
 		}
-
+		.banner.style1 .content h1 {
+			font-size: 3.1rem;
+		}
 		.banner.style1 .image {
 			-moz-flex-grow: 0;
 			-webkit-flex-grow: 0;
