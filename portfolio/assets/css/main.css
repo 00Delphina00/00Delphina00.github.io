@@ -2489,7 +2489,7 @@ input, select, textarea {
 	input[type="url"],
 	select,
 	textarea {
-		border-color: rgba(0, 0, 0, 0.2);
+		border-color:aqua;
 	}
 
 		input[type="text"]:focus,
