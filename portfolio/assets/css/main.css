@@ -338,7 +338,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: grey;
-		
+
 	}
 
 	blockquote {
@@ -2193,8 +2193,10 @@ input, select, textarea {
 	button,
 	.button {
 		background-color: transparent;
-		box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
-		color: #000000 !important;
+		border: 1px solid aqua;
+		box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.5);
+		/*color: #000000 !important;*/
+		color: grey !important;
 	}
 
 		input[type="submit"]:hover,
